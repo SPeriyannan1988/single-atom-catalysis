@@ -1,0 +1,144 @@
+---
+title: "Single Atom Catalysis Consortium"
+image: "SACCreplogoSP.png"
+links:
+  - label: Instagram
+    url: "https://www.instagram.com/?next=%2F"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:sacc2024.info@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## About
+
+**Single Atom Catalysis**
+
+- **What is SAC? -** Single atom catalysis is a process in which a single atom present on the surface of a material drives the catalytic reaction. Such a material with single atom is called as single atom catalyst. Single atom spread over on a surface will mean individualised catalytically active sites that can individually drive the catalytic process.
+- **It's history -** The concept was emerging in 2011 when a research study demonstrated that atomically dispersed platinum atoms on Iron oxide was effective than using platinum nanoparticles, for the catalytic process. And it has rapidly grown since then, owing to its maximum atomic utilization efficiency, tailorable cataltic activity and superior site selectivity.
+- **How it might transform things in future? -** The research so far suggests that promising advancements are being seen in the energy, sustainable chemistry and biomedical sectors. With its unique superiorities like size, tailorobility and precise functionalization, it is expected to revolutionalize the energy and biomedical sectors in the coming decades.
+
+## Resources
+
+**Experimental**
+
+- Synthesis techniques
+- Characterization techniques
+- Analysis methods
+- Challenges
+- Discussion Forum
+
+**Theoretical**
+
+- Theoretical techniques
+- Analysis
+- Working together with experimentalists
+
+**SAC applications** 
+
+- Energy sector
+- Biomedical
+- Environmental
+- Data science
+- Role of AI and/or role in AI
+- Machine learning
+- Neuromorphic computing
+
+**Research groups around the world** 
+
+- [Prof. Manuela's research group-University of Siegen](https://www.chemie-biologie.uni-siegen.de/csnm/forschung/index.html?lang=de)
+
+- [Dr. Prashanth's research group-Technical University of Berlin](https://prashanthmenezes.wixsite.com/energycat/research)
+
+
+## Open Dissemination
+
+### Publications 
+
+- [A minireview on the synthesis of single atom
+catalysts](https://pubs.rsc.org/en/content/articlehtml/2022/ra/d2ra00657j#:~:text=Single%20atom%20catalysis%20describes%20a,up%20by%20Zhang%20et%20al.)
+
+**Online resources** 
+
+- Blogs from other websites
+- Linkedin resources
+- Relatable online courses
+- Youtube resources
+
+## Opportunities
+
+**Conference / Workshops** 
+
+- Past
+- Upcoming
+- Virtual poster exhibitions
+- Instrument analysis workshops
+
+**Open science projects** 
+
+- Outreach
+- Contributions
+- Online meetups/discussions
+- Brainstorming ideas
+- Call for short video/audio (30-90 seconds)
+
+**Citizen science projects** 
+
+- Outreach
+- Contributions
+
+## Collaborations
+
+**Academia** 
+
+**Industry** 
+
+**Science communication** 
+
+**Stakeholders** 
+
+**Funding organisations** 
+
+**Policy makers**
+
+## Contributors and collaborators
+
+**Academia** 
+
+**Industry** 
+
+**Science communicators** 
+
+## Advisory committee
+
+**Academia** 
+
+**Industry** 
+
+## Analytical techniques
+
+**Techniques principle** 
+
+**Analysis procedure** 
+
+**Location and research group of technique availability** 
+
+**How to access** 
+
+## Blog
+
+**Invited** 
+
+**Voluntary contribution** 
+
+**Microblogs on Linkedin or Instagram** 
+
+## Sponsors
+
+**Academia** 
+
+**Industry** 
+
+## Quarterly speaker series
