@@ -29,6 +29,7 @@ output:
 - Analysis methods
 - Challenges
 - Discussion Forum
+- Working with Theoreticians
 
 **Theoretical**
 
